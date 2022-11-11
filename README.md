@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Here's some info about me:
 
-* 🌍  I'm based in Antalya
 * 🖥️  See my portfolio at [MyProjects](http://github.com/Beatum11?tab=repositories)
 * ✉️  You can contact me at [podarkiprod@gmail.com](mailto:podarkiprod@gmail.com)
 
